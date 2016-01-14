@@ -5,6 +5,6 @@
 		</head>
 	<body>
 		<h1>Steam Review Data Relationship Model</h1>
-		<img src="datadesignproject.svg"
+		<img src="datadesignproject.svg" />
 	</body>
 </html>
