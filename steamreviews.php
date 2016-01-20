@@ -2,6 +2,8 @@
 	<html>
 		<head>
 			<title>Steam Reviews</title>
+			<meta> charset="UTF-8">
+			<link href="stylesheet.css" rel="stylesheet" type="text/css">
 		</head>
 	<body>
 		<h1>Steam Reviews Data Relationship Model</h1>
